@@ -1,9 +1,9 @@
-url: "https://caccoalition.github.io/"
+url: https://caccoalition.github.io/
 baseurl: /agency-jekyll-theme/
 
 # Site settings
-title: "Coalition Against Climate Change"
-email: "coalitionagainstclimatechange@gmail.com"
+title: Coalition Against Climate Change
+email: coalitionagainstclimatechange@gmail.com
 description: "We are a USA based nonprofit that seeks to raise awareness about climate change and create change that helps preserve our planet."
 
 
