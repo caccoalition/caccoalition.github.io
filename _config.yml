@@ -52,7 +52,7 @@ social:
   #  url: http://stackoverflow.com/questions/tagged/jekyll
  # - title: bitbucket 
  #   url: http://bitbucket.org/jekyll
- - title: github
+  - title: github
     url: https://github.com/caccoalition/caccoalition.github.io
 
 # Postal address (add as many lines as necessary)
